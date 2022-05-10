@@ -1,0 +1,5 @@
+/rules-engine-csharp/.vs/rules-engine-csharp/DesignTimeBuild/.dtbcache.v2
+/rules-engine-csharp/.vs/rules-engine-csharp/v17/*.suo
+/rules-engine-csharp/*.csproj
+/rules-engine-csharp/obj
+/rules-engine-csharp/bin/Debug/net6.0
